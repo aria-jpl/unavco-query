@@ -1,0 +1,152 @@
+commit 2b4ab4751c2cebe0f65146c1a138c73cd1fe4be3
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Wed Mar 8 11:10:13 2017 -0800
+
+    unavco https rollover
+
+commit 60713f3d1ba6b45f09ae458a4d076a31371d23ea
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Wed Feb 22 05:01:55 2017 -0800
+
+    update to v2 query
+
+commit c11204baae94aa322e0bff7bcb8ecd2503ceab30
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Tue Feb 7 21:02:49 2017 +0000
+
+    no longer passing creds on command line
+
+commit 1aa6afd10b1d11e6bc5774e7f0d5a882873ca29f
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Wed Jun 15 10:52:28 2016 -0700
+
+    Update unavco_query.py
+
+commit f34837560fc7e22534253518d976204ead1643e4
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Wed Jun 15 10:52:08 2016 -0700
+
+    Update unavco_query.py
+
+commit d3e69a38962127aca7ca1a17bf53f3245eed7ffb
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Wed Jun 15 10:44:14 2016 -0700
+
+    Update unavco_query.py
+
+commit 366f1b4b795960f09052aa2773a1cce4a347fa70
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Wed Jun 15 10:20:38 2016 -0700
+
+    filter out non-tar files
+
+commit 3409f442a516b5ac1b93065991e1b3e52537ce46
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Mon Jun 13 10:25:42 2016 -0700
+
+    json parse
+
+commit 7aa92008c8b44db697a3dc045c049c59e20d9f68
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Sun Jun 12 15:12:11 2016 -0700
+
+    simplified parsing of json return
+
+commit cd74c6a29324bb22686fb2509082d61e18871dd9
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Sun Jun 12 14:54:41 2016 -0700
+
+    Update unavco_query.py
+
+commit a08fece4af2ff637a17aa6ba3b342cec53593352
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Mon May 23 13:17:50 2016 -0700
+
+    Update unavco_query.py
+
+commit 1a232d699090b73e464c7ac64e6e7aace45e2831
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Thu May 5 16:54:15 2016 -0700
+
+    Update unavco_query.py
+
+commit 85c085ef6ee23ff0a8b538f98ff96062a6eeae12
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Thu May 5 15:56:26 2016 -0700
+
+    Update unavco_query.py
+
+commit dea1760536a31e87a39e6cc62774459885c38d6f
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Thu May 5 15:52:29 2016 -0700
+
+    Update unavco_query.py
+
+commit a535b8c4e60f0531f6d5efe5b4c41a2ceefe9033
+Author: Michael D Starch <Michael.D.Starch@jpl.nasa.gov>
+Date:   Thu May 5 15:43:07 2016 -0700
+
+    removing .py
+
+commit 30a18688d5ff4187e1edaca53e96d94446c581fe
+Merge: 09ba76e db97155
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Thu May 5 15:39:35 2016 -0700
+
+    Merge branch 'master' of https://github.jpl.nasa.gov/aria-hysds/unavco-query
+
+commit 09ba76eab0f7be3c21279b438025966738b9b328
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Thu May 5 15:36:28 2016 -0700
+
+    set unavco_query as package
+
+commit db971554649b1d07147658ee53a9dc6dd8ef3ae9
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Thu May 5 14:41:40 2016 -0700
+
+    Update unavco_query.py
+
+commit f6281dffc73bd86f3578eba37b50feaaf62152d2
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Thu May 5 11:03:33 2016 -0700
+
+    Update unavco_query.py
+
+commit d2e6f38098f6e8a946792dde9fec296599e47321
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Thu May 5 08:41:37 2016 -0700
+
+    Update unavco_query.py
+
+commit 62afce65a3af76cda373f803c9cd5c192e2c3d1a
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Wed May 4 08:14:25 2016 -0700
+
+    jlinick: updated for errors in function calls
+
+commit 9027f28d8e7ad8e609d5499d6841f870c8b2ea50
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Tue May 3 22:52:13 2016 -0700
+
+    jlinick: updating unavco for generic query
+
+commit 451f16e1fc2cebaf1b676d343ec725b6f24e2577
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Wed Jan 6 09:46:26 2016 -0800
+
+    update filename regex
+
+commit 64d5c57cc5674a8fa6c4920b7edf1da1a442f40d
+Author: Justin P Linick <Justin.P.Linick@jpl.nasa.gov>
+Date:   Wed Jan 6 07:56:05 2016 -0800
+
+    UNAVCO query based of scihub_query
+    
+    Copied directly from scihub_query, modified for UNAVCO
+
+commit f62045a7ff3cae08748574a3d4850594da08bda3
+Author: Michael D Starch <Michael.D.Starch@jpl.nasa.gov>
+Date:   Mon Dec 7 10:42:41 2015 -0800
+
+    Initial commit
